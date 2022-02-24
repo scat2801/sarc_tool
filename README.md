@@ -1,5 +1,5 @@
 # sarc_tool
-Run in Matlab 2020b (Tested)
+Tested in Matlab 2020b, with image processing toolbox
 
 Segmentation data processing
 All NIFTI (image and masks) files in one folder OR Point to your datafolder using addpath('C:\data_folder') in script.m
